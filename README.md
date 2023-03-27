@@ -9,7 +9,7 @@ There are three packages in this repository: [Easy](https://github.com/ismailsen
 | # | Title | Solution | LeetCode |
 | - | ----- | -------- | -------- |
 | 1 | Two Sum | [Java](./Easy/1.%20Two%20Sum) | [Link](https://leetcode.com/problems/two-sum/) |
-| 9 | Palindrome Number | [Java](./Easy/9.%20Palindrome%20Number) | [Link]((https://leetcode.com/problems/palindrome-number/)) |
+| 9 | Palindrome Number | [Java](./Easy/9.%20Palindrome%20Number) | [Link](https://leetcode.com/problems/palindrome-number/) |
 | 13 | Roman to Integer | [Java](./Easy/13.%20Roman%20to%20Integer) | [Link](https://leetcode.com/problems/roman-to-integer/) |
 | 14 | Longest Common Prefix | [Java](./Easy/14.%20Longest%20Common%20Prefix) | [Link](https://leetcode.com/problems/longest-common-prefix/) |
 | 20 | Valid Parentheses | [Java](./Easy/20.%20Valid%20Parentheses) | [Link](https://leetcode.com/problems/valid-parentheses/) |
