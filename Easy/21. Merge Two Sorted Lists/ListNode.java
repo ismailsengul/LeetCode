@@ -1,5 +1,3 @@
-package Easy.MergeTwoSortedLists;
-
 public class ListNode {
     int val;
     ListNode next;

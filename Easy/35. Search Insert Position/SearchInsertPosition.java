@@ -1,6 +1,4 @@
-package Easy.SearchInsertPosition;
-
-public class Solution {
+public class SearchInsertPosition {
     public static void main(String[] args) {
 
         int[] nums = {1, 3, 4, 6};

@@ -1,6 +1,4 @@
-package Easy.LengthOfLastWord;
-
-public class Solution {
+public class LengthOfLastWord {
     public static void main(String[] args) {
         String s = "Hello World";
         System.out.println(lengthOfLastWord(s));

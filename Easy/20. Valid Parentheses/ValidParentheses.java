@@ -1,8 +1,6 @@
-package Easy.ValidParentheses;
-
 import java.util.Stack;
 
-public class Solution {
+public class ValidParentheses {
     public static void main(String[] args) {
         String s = "([()])";
         System.out.println(isValid(s));

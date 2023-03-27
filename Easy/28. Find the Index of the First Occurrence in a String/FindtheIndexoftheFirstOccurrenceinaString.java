@@ -1,6 +1,4 @@
-package Easy.FindTheIndexOfTheFirstOccurrenceInAString;
-
-public class Solution {
+public class FindtheIndexoftheFirstOccurrenceinaString {
     public static void main(String[] args) {
 
         String haystack = "leetcode";

@@ -1,9 +1,6 @@
-package Easy.MergeTwoSortedLists;
-
-
 import java.util.ArrayList;
 
-public class Solution {
+public class MergeTwoSortedLists {
 
     public static void main(String[] args) {
 
