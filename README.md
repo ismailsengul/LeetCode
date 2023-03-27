@@ -1,4 +1,4 @@
-# LeetCode
+# LeetCode Solutions
 
 In this repository, I am recording my solutions to the problems on [LeetCode](https://leetcode.com/).
 
