@@ -13,11 +13,6 @@ public class PlusOne {
 
         int[] digits = {9,9,9};
         System.out.println(Arrays.toString(plusOne(digits)));
-//        int[] plusOne = ;
-//        for (int i = 0; i < plusOne.length; i++) {
-//            System.out.println(plusOne[i]);
-//        }
-
     }
 
     public static int[] plusOne(int[] digits) {
